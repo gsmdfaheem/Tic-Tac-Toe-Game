@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game Using MiniMax Algorithm
+# Tic-Tac-Toe Game (Computer Vs. Human) Using MiniMax Algorithm
